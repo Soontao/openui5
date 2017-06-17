@@ -1,0 +1,19 @@
+{
+  "name": "sap",
+  "version": "1.46.9",
+  "description": "open ui5 release， only use to auto compelete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soontao/openui5.git"
+  },
+  "author": "SAP",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Soontao/openui5/issues"
+  },
+  "homepage": "https://github.com/Soontao/openui5#readme"
+}
